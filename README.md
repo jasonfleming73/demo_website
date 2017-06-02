@@ -11,7 +11,7 @@ sake of this class.
 
 To see the original demo, go to [jlord.github.io/hello](http://jlord.github.io/hello).
 
-My repository is here: [katebron.github.io/demo_website](https://katebron.github.io/demo_website/).
+My repository is here: [https://github.com/jasonfleming73/demo_website](https://github.com/jasonfleming73/demo_website).
 
 
 
